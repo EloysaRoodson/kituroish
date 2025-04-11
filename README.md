@@ -9,6 +9,8 @@
 
 - # Fluxo de Trabalho
 
+- [Ver fluxo no Miro](https://miro.com/welcomeonboard/UVNLdUlKelNjS1owUkFtUkJEQlpGT0x3eG92NFZQSjIwSTEzWGhOd0pIcHV3aGlLWTRpV3E1bkFQNnhaTFpKR09GUU0wOGtTNmJQaTF1TnFRZWpIM21yampFd3VHcktaWFgzWlpNMkE5YmFLM2JJT2FvQ1RQYzlqOHI5QzlNU1hNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=536097259559)
+
 Este é o fluxo básico da plataforma Kituroish, conforme desenhado no Miro:
 
 1. Usuário acessa a plataforma
