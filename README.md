@@ -95,9 +95,8 @@ Cenário: Login com credenciais válidas
 Dado que o usuário está na página de login
 Quando insere email e senha corretos
 Então ele deve acessar a área de pedidos
-gherkin
-Copiar
-Editar
+
+
 
 Funcionalidade: Cadastro de usuário
 
